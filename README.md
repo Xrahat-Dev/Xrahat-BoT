@@ -25,7 +25,7 @@ Click thumbnail to watch full tutorial👆🏻
 <br />
 <p align="center">
     <a href="https://github.com/Xrahat-Dev">
-        <img src="https://i.imgur.com/SrRtp8O.jpeg" alt="Logo">
+        <img src="" alt="Logo">
     </a>
 </p>
 
@@ -33,11 +33,11 @@ Click thumbnail to watch full tutorial👆🏻
 <div align="center">
 
   <!-- ⭐ Fork -->
-  <img src="https://i.imgur.com/UrcGkA9.jpeg" alt="Forks">
+  <img src="" alt="Forks">
 
   <!-- ⭐ Stars -->
   <img src="" alt="Stars">
-  <a href="https://github.com/Xrahat-Dev/Xrahat-BoT">
+  <a href="">
     <img src="" alt="Original Repo">
   </a>
 
