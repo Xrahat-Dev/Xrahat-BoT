@@ -20,7 +20,7 @@
 
 Click thumbnail to watch full tutorial👆🏻
 
-<a><img src='https://i.imgur.com/UrcGkA9.jpeg'/></a>
+<a><img src=''/></a>
 
 <br />
 <p align="center">
@@ -36,9 +36,9 @@ Click thumbnail to watch full tutorial👆🏻
   <img src="https://i.imgur.com/UrcGkA9.jpeg" alt="Forks">
 
   <!-- ⭐ Stars -->
-  <img src="https://img.shields.io/github/stars/Xrahat-Dev/Xrahat-BoT?style=for-the-badge" alt="Stars">
+  <img src="" alt="Stars">
   <a href="https://github.com/Xrahat-Dev/Xrahat-BoT">
-    <img src="https://img.shields.io/badge/ORIGINAL%20REPOSITORY-red?style=for-the-badge&logo=github&logoColor=white" alt="Original Repo">
+    <img src="" alt="Original Repo">
   </a>
 
 </div>
