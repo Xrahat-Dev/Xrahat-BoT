@@ -1,11 +1,11 @@
 <br />
 <p align="center">
     <a href="https://github.com/Xrahat-Dev/Xrahat-BoT.git">
-        <img src="https://i.postimg.cc/Vsnh7S1c/Xrahat-Dev.jpg" alt="Logo">
+        <img src="https://i.imgur.com/SrRtp8O.jpeg" alt="Logo">
     </a>
     <p align="center">
 <a href="https://t.me/education_of_purpose" target="_blank">
-  <img src="https://discordhub.net/emojis/cute-dance.gif" width="30">
+  <img src="https://i.imgur.com/UrcGkA9.jpeg" width="30">
 </a>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=52&pause=1000&color=87CEEB&center=true&vCenter=true&width=700&lines=%F0%9F%94%B0+Rahat+BoT+%F0%9F%94%B0" />
 </p>
@@ -20,12 +20,12 @@
 
 Click thumbnail to watch full tutorial👆🏻
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/UrcGkA9.jpeg'/></a>
 
 <br />
 <p align="center">
     <a href="https://github.com/Xrahat-Dev">
-        <img src="https://i.imgur.com/9pBmbf3.gif" alt="Logo">
+        <img src="https://i.imgur.com/SrRtp8O.jpeg" alt="Logo">
     </a>
 </p>
 
@@ -33,7 +33,7 @@ Click thumbnail to watch full tutorial👆🏻
 <div align="center">
 
   <!-- ⭐ Fork -->
-  <img src="https://img.shields.io/github/forks/Xrahat-Dev/Xrahat-BoT?style=for-the-badge" alt="Forks">
+  <img src="https://i.imgur.com/UrcGkA9.jpeg" alt="Forks">
 
   <!-- ⭐ Stars -->
   <img src="https://img.shields.io/github/stars/Xrahat-Dev/Xrahat-BoT?style=for-the-badge" alt="Stars">
